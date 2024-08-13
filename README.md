@@ -42,14 +42,18 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-EMPLOYEE DATASET:![image](https://github.com/user-attachments/assets/2c19d9c5-3244-4653-b959-ea57de2acf47)
+EMPLOYEE DATASET:
+
+![image](https://github.com/user-attachments/assets/2c19d9c5-3244-4653-b959-ea57de2acf47)
 
 
 BANKING DATASET:
+
 ![image](https://github.com/user-attachments/assets/65ee1bea-22bb-4196-b869-9136180a2489)
 
 
 BUYING DATASET:
+
 ![image](https://github.com/user-attachments/assets/9086fd32-346e-4e66-b22b-606b105ffb64)
 
 
