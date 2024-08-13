@@ -44,8 +44,12 @@ G40,high,yes,excellent,yes
 ### OUTPUT:
 EMPLOYEE DATASET:
 ![image](https://github.com/user-attachments/assets/2c19d9c5-3244-4653-b959-ea57de2acf47)
+
+
 BANKING DATASET:
 ![image](https://github.com/user-attachments/assets/65ee1bea-22bb-4196-b869-9136180a2489)
+
+
 BUYING DATASET:
 ![image](https://github.com/user-attachments/assets/9086fd32-346e-4e66-b22b-606b105ffb64)
 
@@ -61,10 +65,13 @@ BUYING DATASET:
 
 ### OUTPUT:
 EMPLOYEE DATASET:
+
 ![image](https://github.com/user-attachments/assets/d99ebfe4-a6ad-42e8-b10f-07b4b4361b93)
 BANKING DATASET:
+
 ![image](https://github.com/user-attachments/assets/ab706579-f04a-4c79-8955-450b7efe10e4)
 BUYING DATASET:
+
 ![image](https://github.com/user-attachments/assets/486da7c4-2bb7-489a-b612-7b28a43d4d6c)
 
 
